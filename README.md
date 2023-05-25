@@ -9,7 +9,7 @@ To use the application, import the url_shortener function from app.py:
 
 from app import url_shortener
 
-long_url = https://www.youtube.com/watch?v=K8KAbu45-kE&list=RDK8KAbu45-kE&start_radio=1
+long_url = https://www.youtube.com/watch?v=VuG7ge_8I2Y&list=RDVuG7ge_8I2Y&start_radio=1
 
 short_url = url_shortener(long_url)
 
